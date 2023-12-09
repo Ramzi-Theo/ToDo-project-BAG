@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background-color: blue;
+    background-color: purple;
     padding: 10px;
 }
 h1{
@@ -65,7 +65,7 @@ button {
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: gold;
+    background: blueviolet;
     color: black;
     font-size: 16px;
     cursor: pointer;
@@ -96,7 +96,7 @@ ul li::before {
 
 ul li.checked {
     color: blue;
-    text-decoration: line-through;
+    text-decoration:rgb(187, 151, 151);
 }
 
 ul li.checked::before {
